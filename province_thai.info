@@ -1,0 +1,11 @@
+name = Province Thai
+description = Province Thai.
+package = Hugsolution
+core = 7.x
+dependencies[] = taxonomy
+
+; Information added by drupal.org packaging script on 2013-09-03
+version = "7.x-1.x-dev"
+core = "7.x"
+datestamp = "1378213533"
+

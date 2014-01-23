@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @file
+ * Examples showing how to use some of the new JavaScript features in Drupal 7.
+ */
+
+/**
+ * @defgroup js_example Example: JavaScript
+ * @ingroup examples
+ * @{
+ * Examples using Drupal 7's built-in JavaScript.
+ */
+
